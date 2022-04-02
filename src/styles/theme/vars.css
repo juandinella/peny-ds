@@ -1,0 +1,10 @@
+:root {
+  /* Font weights */
+  --f-light: 300;
+  --f-regular: 400;
+  --f-medium: 500;
+  --f-bold: 700;
+
+  /* Transition */
+  --transition-timing-easing: 0.225s ease;
+}

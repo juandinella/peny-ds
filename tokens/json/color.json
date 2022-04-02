@@ -1,0 +1,160 @@
+{
+  "color": {
+    "primaryMain": {
+      "value": "#7908ff"
+    },
+    "backgroundMain": {
+      "value": "#fdfcff"
+    },
+    "gradientMainStart": {
+      "value": "#7908ff"
+    },
+    "gradientMainEnd": {
+      "value": "#8b43e0"
+    },
+    "primaryDark": {
+      "value": "#4f06a7"
+    },
+    "primaryLight": {
+      "value": "#f4ecfe"
+    },
+    "light20": {
+      "value": "#efe2ff"
+    },
+    "light40": {
+      "value": "#e4ceff"
+    },
+    "alertError": {
+      "value": "#e81f37"
+    },
+    "alertErrorLight": {
+      "value": "#ffecf2"
+    },
+    "alertSuccess": {
+      "value": "#00a364"
+    },
+    "alertSuccessLight": {
+      "value": "#e9fcf7"
+    },
+    "alertWarning": {
+      "value": "#ffb300"
+    },
+    "alertWarningLight": {
+      "value": "#fff8e6"
+    },
+    "neutral120": {
+      "value": "#242424"
+    },
+    "neutral100": {
+      "value": "#757575"
+    },
+    "neutral80": {
+      "value": "#a5a7af"
+    },
+    "neutral60": {
+      "value": "#d8d9e2"
+    },
+    "neutral40": {
+      "value": "#ececf0"
+    },
+    "neutral20": {
+      "value": "#f8f8f9"
+    },
+    "neutral00": {
+      "value": "#ffffff"
+    },
+    "secondaryPink": {
+      "value": "#f5afcb"
+    },
+    "secondaryYellow": {
+      "value": "#ffd371"
+    },
+    "secondaryLightBlue": {
+      "value": "#afe4f5"
+    },
+    "coinBtc": {
+      "value": "#feb402"
+    },
+    "coinDai": {
+      "value": "#fd024f"
+    },
+    "coinEth": {
+      "value": "#333333"
+    },
+    "coinLtc": {
+      "value": "#b9b9b9"
+    },
+    "coinPaxg": {
+      "value": "#e5cb22"
+    },
+    "coinRcn": {
+      "value": "#4155ff"
+    },
+    "coinUniversal": {
+      "value": "#8700ff"
+    },
+    "coinUsdc": {
+      "value": "#2776ca"
+    },
+    "coinUsdt": {
+      "value": "#53ae94"
+    },
+    "coinRpc": {
+      "value": "#fab913"
+    },
+    "coinBch": {
+      "value": "#39b54a"
+    },
+    "coinMana": {
+      "value": "#ff7049"
+    },
+    "coinCardano": {
+      "value": "#0033ad"
+    },
+    "coinWaxp": {
+      "value": "#f89022"
+    },
+    "coinChz": {
+      "value": "#cd0124"
+    },
+    "coinSolana": {
+      "value": "#cb47e7"
+    },
+    "coinUbi": {
+      "value": "#00d9a1"
+    },
+    "coinCelo": {
+      "value": "#fbcc5c"
+    },
+    "coinCreal": {
+      "value": "#45cd85"
+    },
+    "coinLink": {
+      "value": "#375bd2"
+    },
+    "coinUni": {
+      "value": "#ff007a"
+    },
+    "coinBat": {
+      "value": "#ff4724"
+    },
+    "coinMatic": {
+      "value": "#8247e5"
+    },
+    "coinDot": {
+      "value": "#e6007a"
+    },
+    "coinDoge": {
+      "value": "#c2a633"
+    },
+    "coinAxs": {
+      "value": "#07caee"
+    },
+    "coinSlp": {
+      "value": "#55bb93"
+    },
+    "coinAave": {
+      "value": "#373d51"
+    }
+  }
+}

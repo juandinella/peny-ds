@@ -1,0 +1,28 @@
+{
+  "font": {
+    "xxxl": {
+      "value": "4em"
+    },
+    "xxl": {
+      "value": "3em"
+    },
+    "xl": {
+      "value": "2em"
+    },
+    "lg": {
+      "value": "1.5em"
+    },
+    "md": {
+      "value": "1.125em"
+    },
+    "sm": {
+      "value": "1em"
+    },
+    "xs": {
+      "value": "0.875em"
+    },
+    "xxs": {
+      "value": "0.75em"
+    }
+  }
+}

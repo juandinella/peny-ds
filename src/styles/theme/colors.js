@@ -1,0 +1,72 @@
+import tokens from '../../../tokens/json/color.json'
+
+const colors = {
+  primary: {
+    light: tokens.color.primaryLight.value,
+    light20: tokens.color.light20.value,
+    light40: tokens.color.light40.value,
+    main: tokens.color.primaryMain.value,
+    dark: tokens.color.primaryDark.value,
+  },
+  secondary: {
+    lightBlue: tokens.color.secondaryLightBlue.value,
+    pink: tokens.color.secondaryPink.value,
+    yellow: tokens.color.secondaryYellow.value,
+  },
+  background: {
+    main: tokens.color.backgroundMain.value,
+  },
+  gradient: {
+    mainStart: tokens.color.gradientMainStart.value,
+    mainEnd: tokens.color.gradientMainEnd.value,
+  },
+  neutral: {
+    percent00: tokens.color.neutral00.value,
+    percent20: tokens.color.neutral20.value,
+    percent40: tokens.color.neutral40.value,
+    percent60: tokens.color.neutral60.value,
+    percent80: tokens.color.neutral80.value,
+    percent100: tokens.color.neutral100.value,
+    percent120: tokens.color.neutral120.value,
+  },
+  alert: {
+    success: tokens.color.alertSuccess.value,
+    successLight: tokens.color.alertSuccessLight.value,
+    warning: tokens.color.alertWarning.value,
+    warningLight: tokens.color.alertWarningLight.value,
+    error: tokens.color.alertError.value,
+    errorLight: tokens.color.alertErrorLight.value,
+  },
+  coin: {
+    btc: tokens.color.coinBtc.value,
+    dai: tokens.color.coinDai.value,
+    eth: tokens.color.coinEth.value,
+    ltc: tokens.color.coinLtc.value,
+    paxg: tokens.color.coinPaxg.value,
+    rcn: tokens.color.coinRcn.value,
+    universal: tokens.color.coinUniversal.value,
+    usdc: tokens.color.coinUsdc.value,
+    usdt: tokens.color.coinUsdt.value,
+    rpc: tokens.color.coinRpc.value,
+    bch: tokens.color.coinBch.value,
+    link: tokens.color.coinLink.value,
+    uni: tokens.color.coinUni.value,
+    bat: tokens.color.coinBat.value,
+    matic: tokens.color.coinMatic.value,
+    dot: tokens.color.coinDot.value,
+    doge: tokens.color.coinDoge.value,
+    axs: tokens.color.coinAxs.value,
+    slp: tokens.color.coinSlp.value,
+    mana: tokens.color.coinMana.value,
+    aave: tokens.color.coinAave.value,
+    cardano: tokens.color.coinCardano.value,
+    waxp: tokens.color.coinWaxp.value,
+    chz: tokens.color.coinChz.value,
+    solana: tokens.color.coinSolana.value,
+    ubi: tokens.color.coinUbi.value,
+    celo: tokens.color.coinCelo.value,
+    creal: tokens.color.coinCreal.value,
+  },
+}
+
+export default colors
