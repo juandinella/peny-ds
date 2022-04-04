@@ -2,9 +2,9 @@ import { create } from '@storybook/theming';
 
 export default create({
   base: 'light',
-  brandTitle: 'Penny Design System',
+  brandTitle: 'Penny',
   colorPrimary: 'red',
-  brandImage: '../../ripio-logo.svg',
+  brandImage: '../../penny.svg',
   colorSecondary: '#7908FF',
   appBg: '#FDFCFF',
   appContentBg: '#FDFCFF',
