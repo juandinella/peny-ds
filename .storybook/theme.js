@@ -4,6 +4,7 @@ export default create({
   base: 'light',
   brandTitle: 'Penny Design System',
   colorPrimary: 'red',
+  brandImage: '../../ripio-logo.svg',
   colorSecondary: '#7908FF',
   appBg: '#FDFCFF',
   appContentBg: '#FDFCFF',
