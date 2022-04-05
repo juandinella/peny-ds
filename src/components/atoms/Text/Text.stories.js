@@ -1,4 +1,4 @@
-import Paragraph from './Paragraph'
+import Text from './Text'
 import { options } from './constants'
 
 import {
@@ -7,12 +7,12 @@ import {
   getOptionsArgTypes,
 } from '../../../helpers/storybook'
 
-const Template = getTemplate(Paragraph)
-const ListTemplate = getListTemplate(Paragraph)
+const Template = getTemplate(Text)
+const ListTemplate = getListTemplate(Text)
 
 export default {
-  title: 'Atoms/Paragraph',
-  component: Paragraph,
+  title: 'Atoms/Text',
+  component: Text,
   args: {
     children:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
@@ -20,8 +20,10 @@ export default {
   argTypes: {
     color: getOptionsArgTypes(options.colors),
     size: getOptionsArgTypes(options.sizes),
+    mSize: getOptionsArgTypes(options.sizes),
     weight: getOptionsArgTypes(options.weights),
     alignment: getOptionsArgTypes(options.alignments),
+    type: getOptionsArgTypes(options.types),
     children: { control: 'text' },
   },
 }

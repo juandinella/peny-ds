@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import styles from './Paragraph.styles'
+import styles from './Text.styles'
 import { options } from './constants'
 import Skeleton from '../Skeleton'
 import Utils from '../../../utils'
@@ -9,10 +9,11 @@ import Utils from '../../../utils'
  * A paragraph always starts on a new line, and is usually a block of text.
  */
 
-const Paragraph = ({
+const Text = ({
   id,
   weight,
-  msize,
+  type,
+  mSize,
   size,
   color,
   children,
@@ -28,40 +29,41 @@ const Paragraph = ({
       id={`${id}_skeleton`}
       show={!Utils.emptyValue(shouldRender) && !shouldRender()}
     >
-      <p
+      <Text
         css={styles}
         id={id}
         data-testid={id}
         weight={weight}
         size={size}
-        msize={msize}
+        mSize={mSize}
         color={color}
         lineClamp={lineClamp}
         alignment={alignment}
         breakWord={breakWord}
         noWrap={noWrap}
         breakLine={breakLine}
+        as={type}
       >
         {children}
-      </p>
+      </Text>
     </Skeleton>
   )
 }
 
-Paragraph.displayName = 'Paragraph'
+Text.displayName = 'Text'
 
-Paragraph.propTypes = {
-  /** Paragraph's content */
+Text.propTypes = {
+  /** Text's content */
   children: PropTypes.node.isRequired,
-  /** Paragraph's font weight */
+  /** Text's font weight */
   weight: PropTypes.oneOf(options.weights),
-  /** Paragraph's font size */
+  /** Text's font size */
   size: PropTypes.oneOf(options.sizes),
-  /** Paragraph's font size for Mobile*/
-  msize: PropTypes.oneOf(options.sizes),
-  /** Paragraph's color */
+  /** Text's font size for Mobile*/
+  mSize: PropTypes.oneOf(options.sizes),
+  /** Text's color */
   color: PropTypes.oneOf(options.colors),
-  /** Paragraph's id */
+  /** Text's id */
   id: PropTypes.string,
   /** Text Alignmnet */
   alignment: PropTypes.oneOf(options.alignments),
@@ -71,6 +73,7 @@ Paragraph.propTypes = {
   breakWord: PropTypes.bool,
   /** If the text is too long it doesn't have any space, this is the way to break it*/
   breakLine: PropTypes.bool,
+  type: PropTypes.oneOf(options.types).isRequired,
   /** Clamp text */
   lineClamp: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   /**
@@ -81,10 +84,11 @@ Paragraph.propTypes = {
   shouldRender: PropTypes.func,
 }
 
-Paragraph.defaultProps = {
+Text.defaultProps = {
   weight: 'regular',
   size: 'sm',
   color: 'neutral-120',
+  type: 'p'
 }
 
-export default Paragraph
+export default Text

@@ -21,7 +21,7 @@ export default css`
     props.size &&
     css`
       font-size: var(
-        --font-${(props) => (props.msize ? props.msize : props.size)}
+        --font-${(props) => (props.mSize ? props.mSize : props.size)}
       );
 
       @media screen and (min-width: ${() => layout.breakpoints.sm}) {

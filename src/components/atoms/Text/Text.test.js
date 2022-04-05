@@ -2,12 +2,12 @@ import React from 'react'
 
 import { render, cleanup } from '@testing-library/react'
 
-import Paragraph from './Paragraph'
+import Text from './Text'
 
 import initStoryshots from '@storybook/addon-storyshots'
 
 initStoryshots({
-  storyKindRegex: /^Atoms\/Paragraph$/,
+  storyKindRegex: /^Atoms\/Text$/,
 })
 
 const componentProps = {
@@ -17,9 +17,9 @@ const componentProps = {
 
 afterEach(cleanup)
 
-describe('<Paragraph />', () => {
+describe('<Text />', () => {
   test('should render component correctly', () => {
-    const { queryByTestId } = render(<Paragraph {...componentProps} />)
+    const { queryByTestId } = render(<Text {...componentProps} />)
 
     const p = queryByTestId(componentProps.id)
 
@@ -28,17 +28,25 @@ describe('<Paragraph />', () => {
 
   test('should render skeleton', () => {
     const { queryByTestId } = render(
-      <Paragraph {...componentProps} shouldRender={() => false} />
+      <Text {...componentProps} shouldRender={() => false} />
     )
 
     expect(queryByTestId(`${componentProps.id}_skeleton`)).toBeTruthy()
   })
 
   test('should render content correctly', () => {
-    const { queryByTestId } = render(<Paragraph {...componentProps} />)
+    const { queryByTestId } = render(<Text {...componentProps} />)
 
     const p = queryByTestId(componentProps.id)
 
     expect(p.textContent).toEqual(componentProps.children)
+  })
+
+  test('should render type correctly', () => {
+    const { container } = render(<Text {...componentProps} type="h4" />)
+
+    const h4 = container.querySelector('h4')
+
+    expect(h4).toBeTruthy()
   })
 })
