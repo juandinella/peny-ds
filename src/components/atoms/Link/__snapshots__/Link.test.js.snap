@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/Link Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <a
+    className="sc-notwuq-0 iDxIsk"
+    href="#"
+    onClick={null}
+    size="sm"
+  >
+    Im a link
+  </a>
+</div>
+`;
+
+exports[`Storyshots Atoms/Link Sizes 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <a
+    className="sc-notwuq-0 fBAtrU"
+    href="#"
+    onClick={null}
+    size="xxs"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 ffVqpg"
+    href="#"
+    onClick={null}
+    size="xs"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 iDxIsk"
+    href="#"
+    onClick={null}
+    size="sm"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 hnMsYk"
+    href="#"
+    onClick={null}
+    size="md"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 kvftMQ"
+    href="#"
+    onClick={null}
+    size="lg"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 jgWTKY"
+    href="#"
+    onClick={null}
+    size="xl"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 bLdJEQ"
+    href="#"
+    onClick={null}
+    size="xxl"
+  >
+    Im a link
+  </a>
+  <a
+    className="sc-notwuq-0 hOxZvE"
+    href="#"
+    onClick={null}
+    size="xxxl"
+  >
+    Im a link
+  </a>
+</div>
+`;
+
+exports[`Storyshots Atoms/Link Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1osow0y-0 dpAisn"
+    data-testid="undefined_skeleton"
+    id="undefined_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <a
+      className="sc-notwuq-0 iDxIsk"
+      href="#"
+      onClick={null}
+      size="sm"
+    >
+      Im a link
+    </a>
+  </div>
+</div>
+`;
