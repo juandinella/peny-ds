@@ -16,7 +16,7 @@ exports[`Storyshots Atoms/Link Default 1`] = `
   }
 >
   <a
-    className="sc-notwuq-0 iDxIsk"
+    className="sc-1j2yc6w-0 hMIrno"
     href="#"
     onClick={null}
     size="sm"
@@ -42,7 +42,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
   }
 >
   <a
-    className="sc-notwuq-0 fBAtrU"
+    className="sc-1j2yc6w-0 jnDPdw"
     href="#"
     onClick={null}
     size="xxs"
@@ -50,7 +50,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 ffVqpg"
+    className="sc-1j2yc6w-0 dTJjEA"
     href="#"
     onClick={null}
     size="xs"
@@ -58,7 +58,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 iDxIsk"
+    className="sc-1j2yc6w-0 hMIrno"
     href="#"
     onClick={null}
     size="sm"
@@ -66,7 +66,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 hnMsYk"
+    className="sc-1j2yc6w-0 eeFjTo"
     href="#"
     onClick={null}
     size="md"
@@ -74,7 +74,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 kvftMQ"
+    className="sc-1j2yc6w-0 ezvPis"
     href="#"
     onClick={null}
     size="lg"
@@ -82,7 +82,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 jgWTKY"
+    className="sc-1j2yc6w-0 jzGJvo"
     href="#"
     onClick={null}
     size="xl"
@@ -90,7 +90,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 bLdJEQ"
+    className="sc-1j2yc6w-0 ehHSjo"
     href="#"
     onClick={null}
     size="xxl"
@@ -98,7 +98,7 @@ exports[`Storyshots Atoms/Link Sizes 1`] = `
     Im a link
   </a>
   <a
-    className="sc-notwuq-0 hOxZvE"
+    className="sc-1j2yc6w-0 eQShpg"
     href="#"
     onClick={null}
     size="xxxl"
@@ -124,7 +124,7 @@ exports[`Storyshots Atoms/Link Skeleton 1`] = `
   }
 >
   <div
-    className="sc-1osow0y-0 dpAisn"
+    className="sc-kjnynt-0 jfZhXD"
     data-testid="undefined_skeleton"
     id="undefined_skeleton"
     style={
@@ -135,7 +135,7 @@ exports[`Storyshots Atoms/Link Skeleton 1`] = `
     }
   >
     <a
-      className="sc-notwuq-0 iDxIsk"
+      className="sc-1j2yc6w-0 hMIrno"
       href="#"
       onClick={null}
       size="sm"

@@ -2,8 +2,6 @@ import React from 'react'
 
 import { render, fireEvent, cleanup } from '@testing-library/react'
 
-import { IconAlert } from '@ripio/mosaic-icons'
-
 import Button from './Button'
 
 import initStoryshots from '@storybook/addon-storyshots'
@@ -72,47 +70,6 @@ describe('<Button />', () => {
 
     expect(componentProps.onClick).toHaveBeenCalledTimes(1)
   })
-
-  test('should render a button with icon', () => {
-    const { container, queryByTestId, rerender } = render(
-      <Button {...componentProps} icon={<IconAlert />} iconPosition="before" />
-    )
-
-    const button = queryByTestId(componentProps.id)
-
-    const iconSpan = queryByTestId(`${componentProps.id}_icon_span`)
-
-    expect(button.children).toHaveLength(2)
-
-    rerender(<IconAlert />)
-
-    expect(iconSpan.firstChild.isEqualNode(container.firstChild)).toBeTruthy()
-  })
-
-  test('should render a button with icon before children', () => {
-    const { queryByTestId } = render(
-      <Button {...componentProps} icon={<IconAlert />} iconPosition="before" />
-    )
-
-    const button = queryByTestId(componentProps.id)
-
-    const iconSpan = queryByTestId(`${componentProps.id}_icon_span`)
-
-    expect(button.children[0].isEqualNode(iconSpan)).toBeTruthy()
-  })
-
-  test('should render a button with icon after children', () => {
-    const { queryByTestId } = render(
-      <Button {...componentProps} icon={<IconAlert />} iconPosition="after" />
-    )
-
-    const button = queryByTestId(componentProps.id)
-
-    const iconSpan = queryByTestId(`${componentProps.id}_icon_span`)
-
-    expect(button.children[1].isEqualNode(iconSpan)).toBeTruthy()
-  })
-
   test('should call function on click', () => {
     const { container } = render(<Button {...componentProps} />)
 

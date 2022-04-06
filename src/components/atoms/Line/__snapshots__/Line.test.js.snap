@@ -16,57 +16,82 @@ exports[`Storyshots Atoms/Line Colors 1`] = `
   }
 >
   <hr
-    className="sc-atln6s-0 fKGCGy"
-    color="neutral-120"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 eJqAEI"
-    color="neutral-100"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 lkkBLp"
-    color="neutral-80"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 dpFhlH"
-    color="neutral-60"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 dddXwh"
-    color="neutral-40"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 dSxLjL"
-    color="neutral-20"
-    type="solid"
-  />
-  <hr
-    className="sc-atln6s-0 dFWBul"
+    className="sc-17eqnv-0 bPrExR"
     color="neutral-00"
     type="solid"
   />
   <hr
-    className="sc-atln6s-0 GPOIX"
+    className="sc-17eqnv-0 hzGwUA"
+    color="neutral-50"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 gYvnwE"
+    color="neutral-100"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 hxHHsn"
+    color="neutral-200"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 gscAva"
+    color="neutral-300"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 hNZbAR"
+    color="neutral-400"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 hBnRuI"
+    color="neutral-500"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 iaAlqr"
+    color="neutral-600"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 gUVete"
+    color="neutral-700"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 kWogKF"
+    color="neutral-800"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 kJCWEw"
+    color="neutral-900"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 jKImXX"
     color="primary-main"
     type="solid"
   />
   <hr
-    className="sc-atln6s-0 hziGOi"
+    className="sc-17eqnv-0 qPCed"
+    color="secondary-main"
+    type="solid"
+  />
+  <hr
+    className="sc-17eqnv-0 tOTYC"
     color="alert-error"
     type="solid"
   />
   <hr
-    className="sc-atln6s-0 gKonp"
+    className="sc-17eqnv-0 jaYNNt"
     color="alert-success"
     type="solid"
   />
   <hr
-    className="sc-atln6s-0 fRXSho"
+    className="sc-17eqnv-0 WBtYU"
     color="alert-warning"
     type="solid"
   />
@@ -89,8 +114,8 @@ exports[`Storyshots Atoms/Line Default 1`] = `
   }
 >
   <hr
-    className="sc-atln6s-0 fKGCGy"
-    color="neutral-120"
+    className="sc-17eqnv-0 kJCWEw"
+    color="neutral-900"
     type="solid"
   />
 </div>
@@ -112,7 +137,7 @@ exports[`Storyshots Atoms/Line Skeleton 1`] = `
   }
 >
   <div
-    className="sc-1osow0y-0 dpAisn"
+    className="sc-kjnynt-0 jfZhXD"
     data-testid="undefined_skeleton"
     id="undefined_skeleton"
     style={
@@ -123,8 +148,8 @@ exports[`Storyshots Atoms/Line Skeleton 1`] = `
     }
   >
     <hr
-      className="sc-atln6s-0 fKGCGy"
-      color="neutral-120"
+      className="sc-17eqnv-0 kJCWEw"
+      color="neutral-900"
       type="solid"
     />
   </div>
@@ -147,13 +172,13 @@ exports[`Storyshots Atoms/Line Types 1`] = `
   }
 >
   <hr
-    className="sc-atln6s-0 fKGCGy"
-    color="neutral-120"
+    className="sc-17eqnv-0 kJCWEw"
+    color="neutral-900"
     type="solid"
   />
   <hr
-    className="sc-atln6s-0 KtRBU"
-    color="neutral-120"
+    className="sc-17eqnv-0 jJVDgK"
+    color="neutral-900"
     type="dashed"
   />
 </div>
