@@ -58,20 +58,14 @@ export default css`
     `}
 
   ${(props) =>
-    props.alignment === 'left' &&
+    props.transform &&
     css`
-      text-align: left;
+      text-transform: ${(props) => props.transform};
     `}
 
   ${(props) =>
-    props.alignment === 'center' &&
+    props.alignment &&
     css`
-      text-align: center;
-    `}
-
-  ${(props) =>
-    props.alignment === 'right' &&
-    css`
-      text-align: right;
+      text-align: ${(props) => props.alignment};
     `}
 `

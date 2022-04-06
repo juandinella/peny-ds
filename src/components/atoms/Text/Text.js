@@ -6,7 +6,7 @@ import Skeleton from '../Skeleton'
 import Utils from '../../../utils'
 
 /**
- * A paragraph always starts on a new line, and is usually a block of text.
+ * Display text using well-defined typographic styles.
  */
 
 const Text = ({
@@ -22,6 +22,7 @@ const Text = ({
   breakWord,
   noWrap,
   breakLine,
+  transform,
   shouldRender,
 }) => {
   return (
@@ -43,6 +44,7 @@ const Text = ({
         noWrap={noWrap}
         breakLine={breakLine}
         as={type}
+        transform={transform}
       >
         {children}
       </Text>
@@ -59,7 +61,7 @@ Text.propTypes = {
   weight: PropTypes.oneOf(options.weights),
   /** Text's font size */
   size: PropTypes.oneOf(options.sizes),
-  /** Text's font size for Mobile*/
+  /** Text's font size for Mobile */
   mSize: PropTypes.oneOf(options.sizes),
   /** Text's color */
   color: PropTypes.oneOf(options.colors),
@@ -71,9 +73,12 @@ Text.propTypes = {
   noWrap: PropTypes.bool,
   /** To break the word */
   breakWord: PropTypes.bool,
-  /** If the text is too long it doesn't have any space, this is the way to break it*/
+  /** If the text is too long it doesn't have any space, this is the way to break it */
   breakLine: PropTypes.bool,
+  /** Type of the text */
   type: PropTypes.oneOf(options.types).isRequired,
+  /** Text transform short hand. */
+  transform: PropTypes.oneOf(options.transforms).isRequired,
   /** Clamp text */
   lineClamp: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   /**

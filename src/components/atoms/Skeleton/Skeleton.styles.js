@@ -18,8 +18,8 @@ export default css`
     background-image: linear-gradient(
       270deg,
       var(--color-neutral-00),
-      var(--color-neutral-40),
-      var(--color-neutral-40),
+      var(--color-neutral-200),
+      var(--color-neutral-200),
       var(--color-neutral-00)
     );
     background-size: 400% 100%;
@@ -53,8 +53,8 @@ export default css`
     background-image: linear-gradient(
       270deg,
       var(--color-neutral-00),
-      var(--color-neutral-40),
-      var(--color-neutral-40),
+      var(--color-neutral-200),
+      var(--color-neutral-200),
       var(--color-neutral-00)
     );
     background-size: 400% 100%;

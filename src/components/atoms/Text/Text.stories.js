@@ -24,6 +24,7 @@ export default {
     weight: getOptionsArgTypes(options.weights),
     alignment: getOptionsArgTypes(options.alignments),
     type: getOptionsArgTypes(options.types),
+    transform: getOptionsArgTypes(options.transforms),
     children: { control: 'text' },
   },
 }
@@ -42,6 +43,11 @@ Weights.args = { items: options.weights.map((weight) => ({ weight })) }
 export const Alignments = ListTemplate.bind({})
 Alignments.args = {
   items: options.alignments.map((alignment) => ({ alignment })),
+}
+
+export const Transforms = ListTemplate.bind({})
+Transforms.args = {
+  items: options.transforms.map((transform) => ({ transform })),
 }
 
 export const Skeleton = Template.bind({})
