@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/Line Colors 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <hr
+    className="sc-atln6s-0 fKGCGy"
+    color="neutral-120"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 eJqAEI"
+    color="neutral-100"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 lkkBLp"
+    color="neutral-80"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 dpFhlH"
+    color="neutral-60"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 dddXwh"
+    color="neutral-40"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 dSxLjL"
+    color="neutral-20"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 dFWBul"
+    color="neutral-00"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 GPOIX"
+    color="primary-main"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 hziGOi"
+    color="alert-error"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 gKonp"
+    color="alert-success"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 fRXSho"
+    color="alert-warning"
+    type="solid"
+  />
+</div>
+`;
+
+exports[`Storyshots Atoms/Line Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <hr
+    className="sc-atln6s-0 fKGCGy"
+    color="neutral-120"
+    type="solid"
+  />
+</div>
+`;
+
+exports[`Storyshots Atoms/Line Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1osow0y-0 dpAisn"
+    data-testid="undefined_skeleton"
+    id="undefined_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <hr
+      className="sc-atln6s-0 fKGCGy"
+      color="neutral-120"
+      type="solid"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/Line Types 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <hr
+    className="sc-atln6s-0 fKGCGy"
+    color="neutral-120"
+    type="solid"
+  />
+  <hr
+    className="sc-atln6s-0 KtRBU"
+    color="neutral-120"
+    type="dashed"
+  />
+</div>
+`;

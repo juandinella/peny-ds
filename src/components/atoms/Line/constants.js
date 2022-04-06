@@ -1,0 +1,21 @@
+export const options = {
+  colors: [
+    'neutral-00',
+    'neutral-50',
+    'neutral-100',
+    'neutral-200',
+    'neutral-300',
+    'neutral-400',
+    'neutral-500',
+    'neutral-600',
+    'neutral-700',
+    'neutral-800',
+    'neutral-900',
+    'primary-main',
+    'secondary-main',
+    'alert-error',
+    'alert-success',
+    'alert-warning',
+  ],
+  types: ['solid', 'dashed'],
+}
