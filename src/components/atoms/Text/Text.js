@@ -88,7 +88,7 @@ Text.defaultProps = {
   weight: 'regular',
   size: 'sm',
   color: 'neutral-120',
-  type: 'p'
+  type: 'p',
 }
 
 export default Text

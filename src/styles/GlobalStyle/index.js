@@ -232,7 +232,7 @@ export const GlobalStyle = createGlobalStyle`
   textarea {
     margin: 0;
     background: transparent;
-    font-family: lato, sans-serif;
+    font-family: 'Work Sans', sans-serif;
     background: transparent;
   }
 
@@ -478,7 +478,7 @@ input[type=number] {
   body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: lato, sans-serif;
+    font-family: 'Work Sans', sans-serif;
     margin: 0;
     padding: 0;
     background: white;

@@ -29,7 +29,7 @@ const Block = styled.div`
 const Grid = styled.div`
   width: ${(props) => props.size};
   height: ${(props) => props.size};
-  background: ${(props) => props.theme.colors.neutral.percent60};
+  background: ${(props) => props.theme.colors.neutral.percent400};
   margin-bottom: 8px;
 `
 
