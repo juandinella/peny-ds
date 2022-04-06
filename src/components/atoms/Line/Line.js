@@ -38,7 +38,7 @@ Line.propTypes = {
 }
 
 Line.defaultProps = {
-  color: 'neutral-120',
+  color: 'neutral-900',
   type: 'solid',
 }
 

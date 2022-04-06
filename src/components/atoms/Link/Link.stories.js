@@ -19,6 +19,7 @@ export default {
   },
   argTypes: {
     size: getOptionsArgTypes(options.sizes),
+    mSize: getOptionsArgTypes(options.sizes),
   },
 }
 
