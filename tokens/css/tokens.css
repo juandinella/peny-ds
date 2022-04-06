@@ -27,8 +27,9 @@
   --color-neutral-100: #f5f5f5;
   --color-neutral-50: #fafafa;
   --color-neutral-00: #ffffff;
-  --radius-sm: 0.375em;
   --radius-xs: 0.1875em;
+  --radius-sm: 0.375em;
+  --radius-md: 0.5em;
   --radius-lg: 1.5em;
   --shadow-sm: 0px 4px 50px rgba(55, 55, 68, 0.05);
   --shadow-md: 0px 4px 8px rgba(55, 55, 68, 0.05);

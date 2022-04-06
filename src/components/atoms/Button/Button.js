@@ -44,11 +44,7 @@ const Button = ({
         type={type}
         as={tag}
         href={href}
-        fullWidthMobile={fullWidthMobile}
         style={{ maxWidth: maxWidth }}
-        smallMobile={smallMobile}
-        hideMobile={hideMobile}
-        hideTablet={hideTablet}
         active={active}
       >
         {children}
@@ -72,21 +68,10 @@ Button.propTypes = {
   isInline: PropTypes.bool,
   /** Types of the Button */
   type: PropTypes.oneOf(options.types),
-  /** Icon Name */
-  icon: PropTypes.node,
-  /** Icon Position */
-  iconPosition: PropTypes.oneOf(['before', 'after']),
   /** Variatons of the buttons */
   variant: PropTypes.oneOf(options.variants),
   /** Button will render as <a> if there's href */
   href: PropTypes.string,
-  /** If the button goes fullwidth for mobile screen */
-  fullWidthMobile: PropTypes.bool,
-  /** Hide Button Mobile */
-  hideMobile: PropTypes.bool,
-  /** Hide Button Tablet */
-  hideTablet: PropTypes.bool,
-  /** Active state */
   active: PropTypes.bool,
   /** Set maxWidth of the button */
   maxWidth: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
