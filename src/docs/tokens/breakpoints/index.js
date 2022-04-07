@@ -13,7 +13,7 @@ const Name = styled.span`
   font-size: 12px;
   display: block;
   margin-bottom: 8px;
-  min-width: 80px;
+  min-width: 100px;
 `
 
 const Block = styled.div`
@@ -29,7 +29,7 @@ const Block = styled.div`
 const Breakpoint = styled.div`
   width: ${(props) => props.size};
   height: 24px;
-  background: ${(props) => props.theme.colors.neutral.percent60};
+  background: ${(props) => props.theme.colors.neutral.percent200};
   margin-bottom: 8px;
 `
 

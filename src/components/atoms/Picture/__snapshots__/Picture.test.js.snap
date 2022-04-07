@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/Picture Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <picture
+    className="sc-12jm28m-0 iETfBZ"
+    height="auto"
+    width={200}
+  >
+    <img
+      alt="A simple image"
+      src="https://picsum.photos/id/1033/400/400"
+      style={
+        Object {
+          "height": "auto",
+        }
+      }
+    />
+  </picture>
+</div>
+`;
+
+exports[`Storyshots Atoms/Picture Height 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <picture
+    className="sc-12jm28m-0 iETfBZ"
+    height={400}
+    width={200}
+  >
+    <img
+      alt="A simple image"
+      src="https://picsum.photos/id/1033/400/800"
+      style={
+        Object {
+          "height": 400,
+        }
+      }
+    />
+  </picture>
+</div>
+`;
+
+exports[`Storyshots Atoms/Picture Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1osow0y-0 dpAisn"
+    data-testid="undefined_skeleton"
+    id="undefined_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <picture
+      className="sc-12jm28m-0 iETfBZ"
+      height="auto"
+      width={200}
+    >
+      <img
+        alt="A simple image"
+        src="https://picsum.photos/id/1033/400/400"
+        style={
+          Object {
+            "height": "auto",
+          }
+        }
+      />
+    </picture>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/Picture Width 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <picture
+    className="sc-12jm28m-0 gUFZgx"
+    height="auto"
+    width={400}
+  >
+    <img
+      alt="A simple image"
+      src="https://picsum.photos/id/1033/800/400"
+      style={
+        Object {
+          "height": "auto",
+        }
+      }
+    />
+  </picture>
+</div>
+`;

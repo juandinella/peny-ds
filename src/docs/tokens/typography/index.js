@@ -17,7 +17,7 @@ const Text = styled.p`
 const Name = styled.span`
   font-size: 12px;
   display: block;
-  min-width: 80px;
+  min-width: 100px;
 `
 
 const Block = styled.div`

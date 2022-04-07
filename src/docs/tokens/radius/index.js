@@ -13,7 +13,7 @@ const Name = styled.span`
   font-size: 12px;
   display: block;
   margin-bottom: 8px;
-  min-width: 80px;
+  min-width: 100px;
 `
 
 const Block = styled.div`
@@ -28,7 +28,7 @@ const Block = styled.div`
 const Grid = styled.div`
   width: 100px;
   height: 100px;
-  background: ${(props) => props.theme.colors.neutral.percent60};
+  background: ${(props) => props.theme.colors.neutral.percent100};
   margin-bottom: 16px;
   border-radius: ${(props) => props.borderRadius};
 `
