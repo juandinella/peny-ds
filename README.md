@@ -16,11 +16,11 @@
 
 ## Install and integration
 
-1. Install: `npm i @juandinella/penny-ds --save`
-2. Import styles in your index.js: `import '@juandinella/penny-ds/index.css'`
+1. Install: `npm i penny-ds --save`
+2. Import styles in your index.js: `import 'penny-ds/index.css'`
 3. Add provider before router:
 	```
-	import { DesignSystemProvider } from '@juandinella/penny-ds'
+	import { DesignSystemProvider } from 'penny-ds'
 	const App = () =>
 		<DesignSystemProvider>
 	    <Router>
@@ -31,7 +31,7 @@
 	```
 4. Import components!
 	```
-	import { Button } from '@juandinella/penny-ds'
+	import { Button } from 'penny-ds'
 	const MyComp = () =>
 		<Button id="my_id">
 	    My button!
