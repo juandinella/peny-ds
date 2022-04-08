@@ -19,12 +19,8 @@ const Button = ({
   children,
   href,
   active,
-  fullWidthMobile,
   maxWidth,
-  smallMobile,
   shouldRender,
-  hideMobile,
-  hideTablet,
 }) => {
   const tag = typeof href === 'string' ? 'a' : 'button'
 
@@ -72,6 +68,7 @@ Button.propTypes = {
   variant: PropTypes.oneOf(options.variants),
   /** Button will render as <a> if there's href */
   href: PropTypes.string,
+  /** Active Button */
   active: PropTypes.bool,
   /** Set maxWidth of the button */
   maxWidth: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),

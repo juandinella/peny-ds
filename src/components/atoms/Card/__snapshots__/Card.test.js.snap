@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/Card Border Radiuses 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-19ernvp-0 fuLKYX"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 cLrbUK"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 ilXHZT"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/Card Centered 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-19ernvp-0 eIOJyJ"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/Card Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-19ernvp-0 fXsjtV"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/Card Sizes 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-19ernvp-0 oHKfx"
+    onClick={null}
+    size="xxs"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 ivkNVF"
+    onClick={null}
+    size="xs"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 jVzuLx"
+    onClick={null}
+    size="sm"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 fXsjtV"
+    onClick={null}
+    size="md"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 kpCQUJ"
+    onClick={null}
+    size="lg"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 fkkIhp"
+    onClick={null}
+    size="xl"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 iYcBjx"
+    onClick={null}
+    size="xxl"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+  <div
+    className="sc-19ernvp-0 kEQOXN"
+    onClick={null}
+    size="xxxl"
+    style={
+      Object {
+        "maxWidth": undefined,
+      }
+    }
+  >
+    Card
+  </div>
+</div>
+`;

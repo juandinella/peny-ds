@@ -8,7 +8,7 @@ export default {
   title: 'Atoms/Picture',
   component: Picture,
   args: {
-    src: 'https://picsum.photos/id/1033/400/400',
+    src: 'https://picsum.photos/400',
     width: 200,
     minWidth: 100,
     altText: 'A simple image',

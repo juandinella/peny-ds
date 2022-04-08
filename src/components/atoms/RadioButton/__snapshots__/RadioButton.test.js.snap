@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/RadioButton Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-6kv2s7-0 jTNQcl"
+    data-testid="radio-id"
+  >
+    <input
+      defaultChecked={false}
+      id="radio-id"
+      name="radio-name"
+      onChange={[Function]}
+      type="radio"
+    />
+    <label
+      htmlFor="radio-id"
+    >
+      Im a Radio Button
+    </label>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Atoms/RadioButton Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kjnynt-0 jfZhXD"
+    data-testid="radio-id_skeleton"
+    id="radio-id_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <div
+      className="sc-6kv2s7-0 jTNQcl"
+      data-testid="radio-id"
+    >
+      <input
+        defaultChecked={false}
+        id="radio-id"
+        name="radio-name"
+        onChange={[Function]}
+        type="radio"
+      />
+      <label
+        htmlFor="radio-id"
+      >
+        Im a Radio Button
+      </label>
+    </div>
+  </div>
+</div>
+`;

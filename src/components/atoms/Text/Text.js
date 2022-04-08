@@ -78,7 +78,7 @@ Text.propTypes = {
   /** Type of the text */
   type: PropTypes.oneOf(options.types).isRequired,
   /** Text transform short hand. */
-  transform: PropTypes.oneOf(options.transforms).isRequired,
+  transform: PropTypes.oneOf(options.transforms),
   /** Clamp text */
   lineClamp: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   /**
@@ -92,7 +92,7 @@ Text.propTypes = {
 Text.defaultProps = {
   weight: 'regular',
   size: 'sm',
-  color: 'neutral-120',
+  color: 'neutral-900',
   type: 'p',
 }
 

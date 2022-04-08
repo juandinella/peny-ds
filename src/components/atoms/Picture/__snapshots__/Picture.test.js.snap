@@ -16,13 +16,13 @@ exports[`Storyshots Atoms/Picture Default 1`] = `
   }
 >
   <picture
-    className="sc-12jm28m-0 iETfBZ"
+    className="sc-wzq26i-0 iKPofL"
     height="auto"
     width={200}
   >
     <img
       alt="A simple image"
-      src="https://picsum.photos/id/1033/400/400"
+      src="https://picsum.photos/400"
       style={
         Object {
           "height": "auto",
@@ -49,7 +49,7 @@ exports[`Storyshots Atoms/Picture Height 1`] = `
   }
 >
   <picture
-    className="sc-12jm28m-0 iETfBZ"
+    className="sc-wzq26i-0 iKPofL"
     height={400}
     width={200}
   >
@@ -82,7 +82,7 @@ exports[`Storyshots Atoms/Picture Skeleton 1`] = `
   }
 >
   <div
-    className="sc-1osow0y-0 dpAisn"
+    className="sc-kjnynt-0 jfZhXD"
     data-testid="undefined_skeleton"
     id="undefined_skeleton"
     style={
@@ -93,13 +93,13 @@ exports[`Storyshots Atoms/Picture Skeleton 1`] = `
     }
   >
     <picture
-      className="sc-12jm28m-0 iETfBZ"
+      className="sc-wzq26i-0 iKPofL"
       height="auto"
       width={200}
     >
       <img
         alt="A simple image"
-        src="https://picsum.photos/id/1033/400/400"
+        src="https://picsum.photos/400"
         style={
           Object {
             "height": "auto",
@@ -127,7 +127,7 @@ exports[`Storyshots Atoms/Picture Width 1`] = `
   }
 >
   <picture
-    className="sc-12jm28m-0 gUFZgx"
+    className="sc-wzq26i-0 cRBjcr"
     height="auto"
     width={400}
   >

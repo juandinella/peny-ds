@@ -16,22 +16,22 @@ exports[`Storyshots Atoms/Text Alignments 1`] = `
   }
 >
   <p
-    className="sc-15mqapg-0 AYvPo"
-    color="neutral-120"
+    className="sc-15mqapg-0 dwWtEW"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 jEwOzo"
-    color="neutral-120"
+    className="sc-15mqapg-0 cmNBtC"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 frlddD"
-    color="neutral-120"
+    className="sc-15mqapg-0 cVdAzV"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -178,8 +178,8 @@ exports[`Storyshots Atoms/Text Default 1`] = `
   }
 >
   <p
-    className="sc-15mqapg-0 gssJiL"
-    color="neutral-120"
+    className="sc-15mqapg-0 jGEgjl"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -203,57 +203,57 @@ exports[`Storyshots Atoms/Text Sizes 1`] = `
   }
 >
   <p
-    className="sc-15mqapg-0 gqqARz"
-    color="neutral-120"
+    className="sc-15mqapg-0 hcoA-dd"
+    color="neutral-900"
     size="xxs"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 cvBfaL"
-    color="neutral-120"
+    className="sc-15mqapg-0 hJThYN"
+    color="neutral-900"
     size="xs"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 gssJiL"
-    color="neutral-120"
+    className="sc-15mqapg-0 jGEgjl"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 hiQJDH"
-    color="neutral-120"
+    className="sc-15mqapg-0 eeHXJt"
+    color="neutral-900"
     size="md"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 cYYzpz"
-    color="neutral-120"
+    className="sc-15mqapg-0 inqCnB"
+    color="neutral-900"
     size="lg"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 iwqKSf"
-    color="neutral-120"
+    className="sc-15mqapg-0 gMQGht"
+    color="neutral-900"
     size="xl"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 dQKvOL"
-    color="neutral-120"
+    className="sc-15mqapg-0 kRUBpJ"
+    color="neutral-900"
     size="xxl"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 iRlRTH"
-    color="neutral-120"
+    className="sc-15mqapg-0 llWRWp"
+    color="neutral-900"
     size="xxxl"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -288,8 +288,8 @@ exports[`Storyshots Atoms/Text Skeleton 1`] = `
     }
   >
     <p
-      className="sc-15mqapg-0 gssJiL"
-      color="neutral-120"
+      className="sc-15mqapg-0 jGEgjl"
+      color="neutral-900"
       size="sm"
     >
       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -314,32 +314,32 @@ exports[`Storyshots Atoms/Text Transforms 1`] = `
   }
 >
   <p
-    className="sc-15mqapg-0 dNNVDO"
-    color="neutral-120"
+    className="sc-15mqapg-0 gzHxRk"
+    color="neutral-900"
     size="sm"
     transform="capitalize"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 bPQEjk"
-    color="neutral-120"
+    className="sc-15mqapg-0 iiaVRi"
+    color="neutral-900"
     size="sm"
     transform="uppercase"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 hLLqXR"
-    color="neutral-120"
+    className="sc-15mqapg-0 jpTTvb"
+    color="neutral-900"
     size="sm"
     transform="lowercase"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 fWzpmw"
-    color="neutral-120"
+    className="sc-15mqapg-0 jmqlQe"
+    color="neutral-900"
     size="sm"
     transform="initial"
   >
@@ -364,29 +364,29 @@ exports[`Storyshots Atoms/Text Weights 1`] = `
   }
 >
   <p
-    className="sc-15mqapg-0 gTuBiH"
-    color="neutral-120"
+    className="sc-15mqapg-0 htUuyB"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 gssJiL"
-    color="neutral-120"
+    className="sc-15mqapg-0 jGEgjl"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 UzAkQ"
-    color="neutral-120"
+    className="sc-15mqapg-0 lbEKUa"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   </p>
   <p
-    className="sc-15mqapg-0 iSkTg"
-    color="neutral-120"
+    className="sc-15mqapg-0 bXauaa"
+    color="neutral-900"
     size="sm"
   >
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.

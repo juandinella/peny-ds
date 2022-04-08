@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Molecules/RadioButtonList Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1gtlsc7-0 cDJPBe"
+  >
+    <div
+      className="sc-6kv2s7-0 jTNQcl"
+      data-testid="radio-one"
+    >
+      <input
+        defaultChecked={true}
+        id="radio-one"
+        name="radio-name"
+        type="radio"
+        value="one"
+      />
+      <label
+        htmlFor="radio-one"
+      >
+        Radio One
+      </label>
+    </div>
+    <div
+      className="sc-6kv2s7-0 jTNQcl"
+      data-testid="radio-two"
+    >
+      <input
+        defaultChecked={false}
+        id="radio-two"
+        name="radio-name"
+        type="radio"
+        value="two"
+      />
+      <label
+        htmlFor="radio-two"
+      >
+        Radio Two
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/RadioButtonList Horizontal 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1gtlsc7-0 lcNqZR"
+  >
+    <div
+      className="sc-6kv2s7-0 jTNQcl"
+      data-testid="radio-one"
+    >
+      <input
+        defaultChecked={true}
+        id="radio-one"
+        name="radio-name"
+        type="radio"
+        value="one"
+      />
+      <label
+        htmlFor="radio-one"
+      >
+        Radio One
+      </label>
+    </div>
+    <div
+      className="sc-6kv2s7-0 jTNQcl"
+      data-testid="radio-two"
+    >
+      <input
+        defaultChecked={false}
+        id="radio-two"
+        name="radio-name"
+        type="radio"
+        value="two"
+      />
+      <label
+        htmlFor="radio-two"
+      >
+        Radio Two
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/RadioButtonList Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-1gtlsc7-0 cDJPBe"
+  >
+    <div
+      className="sc-kjnynt-0 jfZhXD"
+      data-testid="radio-one_skeleton"
+      id="radio-one_skeleton"
+      style={
+        Object {
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-6kv2s7-0 jTNQcl"
+        data-testid="radio-one"
+      >
+        <input
+          defaultChecked={true}
+          id="radio-one"
+          name="radio-name"
+          type="radio"
+          value="one"
+        />
+        <label
+          htmlFor="radio-one"
+        >
+          Radio One
+        </label>
+      </div>
+    </div>
+    <div
+      className="sc-kjnynt-0 jfZhXD"
+      data-testid="radio-two_skeleton"
+      id="radio-two_skeleton"
+      style={
+        Object {
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <div
+        className="sc-6kv2s7-0 jTNQcl"
+        data-testid="radio-two"
+      >
+        <input
+          defaultChecked={false}
+          id="radio-two"
+          name="radio-name"
+          type="radio"
+          value="two"
+        />
+        <label
+          htmlFor="radio-two"
+        >
+          Radio Two
+        </label>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,972 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Molecules/TextField Colors 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 fqziXk success"
+    color="neutral-800"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 chovWH success"
+    color="neutral-700"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 JMSqW success"
+    color="neutral-600"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 hzVIYR success"
+    color="neutral-500"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 cxpQAk success"
+    color="neutral-400"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 iCPAKf success"
+    color="neutral-300"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 hfnXeu success"
+    color="neutral-200"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 cGbent success"
+    color="neutral-100"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 jBaqol success"
+    color="neutral-50"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 iJyrjc success"
+    color="neutral-00"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 ciBEBy success"
+    color="primary-main"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 gQVzSc success"
+    color="secondary-main"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 inNEnb success"
+    color="alert-error"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 jWkjAg success"
+    color="alert-success"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Inline 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 dcGLDM"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="inline-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="inline-id"
+      id="inline-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Pattern Only Numbers 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="pattern-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="pattern-id"
+      id="pattern-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Sizes 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="size-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="size-id"
+      id="size-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 fULjsH success"
+    color="neutral-900"
+    size="md"
+  >
+    <label
+      htmlFor="size-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="size-id"
+      id="size-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 hrfMNE success"
+    color="neutral-900"
+    size="lg"
+  >
+    <label
+      htmlFor="size-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="size-id"
+      id="size-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 bdJKmy success"
+    color="neutral-900"
+    size="xl"
+  >
+    <label
+      htmlFor="size-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="size-id"
+      id="size-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 dTVkai success"
+    color="neutral-900"
+    size="xxl"
+  >
+    <label
+      htmlFor="size-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="size-id"
+      id="size-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kjnynt-0 jfZhXD"
+    data-testid="test-id_skeleton"
+    id="test-id_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <div
+      className="sc-x8vv3i-0 doXjBO"
+      color="neutral-900"
+      size="sm"
+    >
+      <label
+        htmlFor="test-id"
+      >
+        Im an TextField
+      </label>
+      <input
+        data-testid="test-id"
+        id="test-id"
+        name=""
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="This is a placeholder"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Textarea 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="textarea-id"
+    >
+      Im an TextField
+    </label>
+    <textarea
+      data-testid="textarea-id"
+      id="textarea-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Types 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="email"
+      value=""
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="number"
+      value=""
+    />
+  </div>
+  <div
+    className="sc-x8vv3i-0 doXjBO"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="test-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="test-id"
+      id="test-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="password"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Value 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="value-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="value-id"
+      id="value-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="Others mainly cakehole Thorin moldy facial."
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Value Error 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="error-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="error-id"
+      id="error-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="Others mainly cakehole Thorin moldy facial."
+    />
+    <span
+      className="input-icon"
+    >
+      <svg
+        className="feather feather-x-circle"
+        fill="none"
+        height="24"
+        stroke="#dc2626"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="15"
+          x2="9"
+          y1="9"
+          y2="15"
+        />
+        <line
+          x1="9"
+          x2="15"
+          y1="9"
+          y2="15"
+        />
+      </svg>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Molecules/TextField Value Success 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-x8vv3i-0 ktfbvR success"
+    color="neutral-900"
+    size="sm"
+  >
+    <label
+      htmlFor="icon-id"
+    >
+      Im an TextField
+    </label>
+    <input
+      data-testid="icon-id"
+      id="icon-id"
+      name=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="This is a placeholder"
+      type="text"
+      value="Others mainly cakehole Thorin moldy facial."
+    />
+    <span
+      className="input-icon"
+    >
+      <svg
+        className="feather feather-check-circle"
+        fill="none"
+        height="24"
+        stroke="#22c55e"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M22 11.08V12a10 10 0 1 1-5.93-9.14"
+        />
+        <polyline
+          points="22 4 12 14.01 9 11.01"
+        />
+      </svg>
+    </span>
+  </div>
+</div>
+`;

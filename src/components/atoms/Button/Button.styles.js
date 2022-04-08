@@ -34,12 +34,12 @@ export default css`
 
   &:disabled {
     cursor: not-allowed;
-    background: var(--color-neutral-100);
-    color: var(--color-neutral-00);
+    background: var(--color-neutral-200);
+    color: var(--color-neutral-600);
 
     &:hover {
-      background-color: var(--color-neutral-100);
-      color: var(--color-neutral-00);
+      background: var(--color-neutral-200);
+      color: var(--color-neutral-600);
     }
   }
 
@@ -71,67 +71,17 @@ export default css`
       }
 
       &:disabled {
-        background: var(--color-neutral-80);
+        background: var(--color-neutral-200);
+        color: var(--color-neutral-600);
 
         &:hover {
-          background-color: var(--color-neutral-80);
+          background: var(--color-neutral-200);
+          color: var(--color-neutral-600);
         }
       }
     `}
 
-  ${(props) =>
-    props.variant === 'black' &&
-    css`
-      background-color: var(--color-neutral-120);
-      color: var(--color-neutral-00);
 
-      &:hover {
-        background-color: var(--color-neutral-100);
-      }
-
-      &:active {
-        transform: scale(0.98);
-      }
-
-      &:focus {
-        box-shadow: 0px 0px 3px 1px rgba(36, 36, 36, 0.4);
-      }
-
-      &:disabled {
-        background: var(--color-neutral-80);
-
-        &:hover {
-          background-color: var(--color-neutral-80);
-        }
-      }
-    `}
-
-  ${(props) =>
-    props.variant === 'white' &&
-    css`
-      background-color: var(--color-neutral-00);
-      color: var(--color-primary-dark);
-
-      &:hover {
-        background-color: var(--color-primary-light);
-      }
-
-      &:active {
-        transform: scale(0.98);
-      }
-
-      &:focus {
-        box-shadow: 0px 0px 3px 1px rgba(36, 36, 36, 0.4);
-      }
-
-      &:disabled {
-        background: var(--color-neutral-80);
-
-        &:hover {
-          background-color: var(--color-neutral-80);
-        }
-      }
-    `}
 
   ${(props) =>
     props.variant === 'tertiary' &&
@@ -153,10 +103,10 @@ export default css`
 
       &:disabled {
         background: transparent;
-        color: var(--color-neutral-80);
+        color: var(--color-neutral-600);
 
         &:hover {
-          color: var(--color-neutral-80);
+          color: var(--color-neutral-600);
         }
       }
 

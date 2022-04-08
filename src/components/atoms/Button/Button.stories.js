@@ -1,4 +1,3 @@
-import React from 'react'
 import { options } from './constants'
 import Button from './Button'
 

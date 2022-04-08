@@ -1,6 +1,6 @@
 {
   "name": "penny-ds",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Penny Design System",
   "main": "dist/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "cc": "node ./scripts/create-component",
-    "chromatic": "npx chromatic --project-token=04875455d6dd"
+    "chromatic": "chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "repository": {
     "type": "git",

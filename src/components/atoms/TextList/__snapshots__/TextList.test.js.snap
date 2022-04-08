@@ -1,0 +1,734 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Atoms/TextList Bullet Colors 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <ul
+    className="sc-2bi9jj-1 gMGmnE"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 eEYlnV"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 kDdDri"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 ivvCrz"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 kpUdZc"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 iimcZt"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 hohOve"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 fgzNvv"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 haYpcY"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 DjsTA"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 gwbmwJ"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 dUptlD"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 bXbLUx"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots Atoms/TextList Colors 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <ul
+    className="sc-2bi9jj-1 yBhfm"
+    color="neutral-900"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 QaOmX"
+    color="neutral-800"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 ioRYkM"
+    color="neutral-700"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 efdVgh"
+    color="neutral-600"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 kZEhHO"
+    color="neutral-500"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 bIfqD"
+    color="neutral-400"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 cFwztE"
+    color="neutral-300"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 jLefNV"
+    color="neutral-200"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 fqiIQG"
+    color="neutral-100"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 ceLigK"
+    color="neutral-50"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 cRFoqz"
+    color="neutral-00"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 bKDXXN"
+    color="primary-main"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 ljPgv"
+    color="secondary-main"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots Atoms/TextList Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <ul
+    className="sc-2bi9jj-1 gEomZU"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots Atoms/TextList Numbered 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <ol
+    className="sc-2bi9jj-0 fWUvtx"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`Storyshots Atoms/TextList Sizes 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <ul
+    className="sc-2bi9jj-1 iozkJE"
+    size="xxs"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 fUymAA"
+    size="xs"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 jWqudB"
+    size="sm"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 esyglK"
+    size="md"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 dkWtIk"
+    size="lg"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 idoWof"
+    size="xl"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 fXHkfH"
+    size="xxl"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+  <ul
+    className="sc-2bi9jj-1 chxIFX"
+    size="xxxl"
+  >
+    <li
+      className=" "
+      onClick={null}
+    >
+      First Item
+    </li>
+    <li
+      className=" "
+      onClick={null}
+    >
+      Second Item
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots Atoms/TextList Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kjnynt-0 jfZhXD"
+    data-testid="undefined_skeleton"
+    id="undefined_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <ul
+      className="sc-2bi9jj-1 gEomZU"
+    >
+      <li
+        className=" "
+        onClick={null}
+      >
+        First Item
+      </li>
+      <li
+        className=" "
+        onClick={null}
+      >
+        Second Item
+      </li>
+    </ul>
+  </div>
+</div>
+`;

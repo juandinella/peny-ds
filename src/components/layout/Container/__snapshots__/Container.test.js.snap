@@ -1,0 +1,1330 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Layout/Container Align Content 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 hdvqjv"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 ehDTEb"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jvLvcr"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 cuJYBn"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bolOKz"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 hGCJjf"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 hdvqjv"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Align Items 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 aikND"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 cGdGLf"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fvNXOz"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jNBmaP"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jymBn"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Border Colors 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 jYCXcc"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jlfFIJ"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 gbsVtO"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fnVEav"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 deaiUE"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 cqCRBl"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 edzMKa"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 dqcvqH"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bghakQ"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 cDhinc"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 lhmrIR"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 ESPUj"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 hJxkzt"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Border Radiuses 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 hTIivS"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 gcjsRP"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fyDhxu"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 kcleyB"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Direction 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 kMDWSL"
+    direction="row"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 koWBgW"
+    direction="row-reverse"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 hQIRxT"
+    direction="column"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kGqxYm"
+    direction="column-reverse"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Justify Content 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 bFLlEb"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 PYbSP"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 dMDdSj"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fZpthT"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bbhEuz"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fupJIX"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 iONyDL"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container M Align Content 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 oVIUk"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 eaUXoA"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 ibcvTU"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fqituc"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bmZmI"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kMpYJM"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 oVIUk"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container M Align Items 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 jMHeeY"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kokRkQ"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bJemvE"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 lhZLuI"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bRvpGY"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container M Direction 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 dpIXgw"
+    direction="row"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fubpFx"
+    direction="row-reverse"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 goqjyY"
+    direction="column"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 wGzwh"
+    direction="column-reverse"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container M Justify Content 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 hPPQDE"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 iQZhLo"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 glWIRM"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jQrbWs"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kdfaqI"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bQOKdg"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kAnTsQ"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container M Spaces 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 gOGjJD"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 eHkzMb"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 iNQuFD"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bUnkWP"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bXFTkX"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jkiQdT"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fUDQyj"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jQzArv"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Spaces 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 gOGjJD"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 eHkzMb"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 iNQuFD"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bUnkWP"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 bXFTkX"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jkiQdT"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fUDQyj"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 jQzArv"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+  >
+    This is a Child!
+  </div>
+</div>
+`;
+
+exports[`Storyshots Layout/Container Wrap 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kazc2j-0 jLQQwj"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+    wrap="nowrap"
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 kElGTC"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+    wrap="wrap"
+  >
+    This is a Child!
+  </div>
+  <div
+    className="sc-kazc2j-0 fLJWin"
+    style={
+      Object {
+        "bottom": undefined,
+        "left": undefined,
+        "right": undefined,
+        "top": undefined,
+      }
+    }
+    wrap="wrap-reverse"
+  >
+    This is a Child!
+  </div>
+</div>
+`;

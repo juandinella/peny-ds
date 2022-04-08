@@ -16,7 +16,7 @@ exports[`Storyshots Atoms/Button Default 1`] = `
   }
 >
   <button
-    className="sc-x3hd59-0 bCLqwq"
+    className="sc-x3hd59-0 hlVQpS"
     disabled={false}
     onClick={[Function]}
     style={
@@ -46,7 +46,7 @@ exports[`Storyshots Atoms/Button Inline 1`] = `
   }
 >
   <button
-    className="sc-x3hd59-0 iGWvjn"
+    className="sc-x3hd59-0 jbAIiH"
     disabled={false}
     onClick={[Function]}
     style={
@@ -87,7 +87,7 @@ exports[`Storyshots Atoms/Button Skeleton 1`] = `
     }
   >
     <button
-      className="sc-x3hd59-0 bCLqwq"
+      className="sc-x3hd59-0 hlVQpS"
       disabled={false}
       onClick={[Function]}
       style={
@@ -118,7 +118,7 @@ exports[`Storyshots Atoms/Button Types 1`] = `
   }
 >
   <button
-    className="sc-x3hd59-0 bCLqwq"
+    className="sc-x3hd59-0 hlVQpS"
     disabled={false}
     onClick={[Function]}
     style={
@@ -131,7 +131,7 @@ exports[`Storyshots Atoms/Button Types 1`] = `
     This is a Button!
   </button>
   <button
-    className="sc-x3hd59-0 bCLqwq"
+    className="sc-x3hd59-0 hlVQpS"
     disabled={false}
     onClick={[Function]}
     style={
@@ -144,7 +144,7 @@ exports[`Storyshots Atoms/Button Types 1`] = `
     This is a Button!
   </button>
   <button
-    className="sc-x3hd59-0 bCLqwq"
+    className="sc-x3hd59-0 hlVQpS"
     disabled={false}
     onClick={[Function]}
     style={
@@ -175,7 +175,7 @@ exports[`Storyshots Atoms/Button Variants 1`] = `
   }
 >
   <button
-    className="sc-x3hd59-0 bCLqwq"
+    className="sc-x3hd59-0 hlVQpS"
     disabled={false}
     onClick={[Function]}
     style={
@@ -187,7 +187,7 @@ exports[`Storyshots Atoms/Button Variants 1`] = `
     This is a Button!
   </button>
   <button
-    className="sc-x3hd59-0 hmIKlY"
+    className="sc-x3hd59-0 dgwVJc"
     disabled={false}
     onClick={[Function]}
     style={
@@ -199,7 +199,7 @@ exports[`Storyshots Atoms/Button Variants 1`] = `
     This is a Button!
   </button>
   <button
-    className="sc-x3hd59-0 dxJlJF"
+    className="sc-x3hd59-0 jgvzJV"
     disabled={false}
     onClick={[Function]}
     style={
@@ -211,7 +211,7 @@ exports[`Storyshots Atoms/Button Variants 1`] = `
     This is a Button!
   </button>
   <button
-    className="sc-x3hd59-0 cToKUp"
+    className="sc-x3hd59-0 fnuysp"
     disabled={false}
     onClick={[Function]}
     style={
