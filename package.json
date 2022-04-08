@@ -15,8 +15,7 @@
     "start": "npm run storybook",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "cc": "node ./scripts/create-component",
-    "chromatic": "npx chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
+    "cc": "node ./scripts/create-component"
   },
   "repository": {
     "type": "git",
