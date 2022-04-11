@@ -21,7 +21,6 @@
 3. Add provider before router:
 	```
 	import { DesignSystemProvider } from 'penny-ds'
-  import 'penny-ds/dist/index.css'
 	const App = () =>
 		<DesignSystemProvider>
 	    <Router>
