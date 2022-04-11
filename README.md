@@ -2,8 +2,7 @@
 
 ![Penny Cover](./public/cover.png)
 
-
-[Latest version]: https://main--624aecefae45c1003a80bf5b.chromatic.com/
+[Latest version](https://main--624aecefae45c1003a80bf5b.chromatic.com/)
 
 ## Components for Ripio React apps
 
