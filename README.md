@@ -83,8 +83,6 @@ For this project organisms are assemblies of molecules functioning together as a
 
 Design tokens are central and tiny pieces of UI information to store design related information such as colors, fonts, spaces, animations, etc... Their benefits is that they can be transformed and formatted to meet the needs of any platform (Android, iOS, Web, etc…).
 
-We developed a tool that generates design tokens from Figma as a variables. The way it works is having a file `config.figma.json` with a Figma API Key and Figma ID and running `npm run tokens`. This will generate JSON files in `tokens/json` and this works as a single source of truth
-
 ### Styling
 
 Once Design Tokens are generated we have to create a file in `src/styles/theme` and import the tokens. This isn't automatically.

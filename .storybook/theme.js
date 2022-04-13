@@ -5,7 +5,7 @@ export default create({
   brandTitle: 'Penny',
   colorPrimary: 'red',
   brandImage: '../../penny.svg',
-  colorSecondary: '#4f46e5',
+  colorSecondary: '#6246ea',
   appBg: '#FDFCFF',
   appContentBg: '#FDFCFF',
   appBorderColor: '#EFE2FF',
