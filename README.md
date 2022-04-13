@@ -4,8 +4,6 @@
 
 [Latest version](https://main--624aecefae45c1003a80bf5b.chromatic.com/?path=/story/intro--page)
 
-## Components for Ripio React apps
-
 ### Table of Contents
 
 - [Install & integration](#install-and-integration)
