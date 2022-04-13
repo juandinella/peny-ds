@@ -65,21 +65,25 @@ Direction.args = {
 export const mDirection = ListTemplate.bind({})
 mDirection.args = {
   items: options.direction.map((direction) => ({ direction })),
+  isVisible: true,
 }
 
 export const mAlignContent = ListTemplate.bind({})
 mAlignContent.args = {
   items: options.alignContent.map((alignContent) => ({ alignContent })),
+  isVisible: true,
 }
 
 export const mAlignItems = ListTemplate.bind({})
 mAlignItems.args = {
   items: options.alignItems.map((alignItems) => ({ alignItems })),
+  isVisible: true,
 }
 
 export const mJustifyContent = ListTemplate.bind({})
 mJustifyContent.args = {
   items: options.justifyContent.map((justifyContent) => ({ justifyContent })),
+  isVisible: true,
 }
 
 export const Wrap = ListTemplate.bind({})
@@ -89,17 +93,25 @@ Wrap.args = {
 }
 
 export const Spaces = ListTemplate.bind({})
-Spaces.args = { items: options.spaces.map((space) => ({ space })) }
+Spaces.args = {
+  items: options.spaces.map((space) => ({ space })),
+  isVisible: true,
+}
 
 export const MSpaces = ListTemplate.bind({})
-MSpaces.args = { items: options.spaces.map((space) => ({ space })) }
+MSpaces.args = {
+  items: options.spaces.map((space) => ({ space })),
+  isVisible: true,
+}
 
 export const BorderRadiuses = ListTemplate.bind({})
 BorderRadiuses.args = {
   items: options.borderRadiuses.map((borderRadius) => ({ borderRadius })),
+  space: 'sm',
 }
 
 export const BorderColors = ListTemplate.bind({})
 BorderColors.args = {
   items: options.borderColors.map((borderColor) => ({ borderColor })),
+  space: 'sm',
 }
