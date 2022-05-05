@@ -9,6 +9,7 @@ export default css`
   background-color: var(--color-neutral-00);
   position: relative;
   box-shadow: var(--shadow-sm);
+}
 
   &:first-of-type {
     border-radius: var(--radius-sm) var(--radius-sm) 0 0;

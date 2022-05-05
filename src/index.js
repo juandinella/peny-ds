@@ -16,6 +16,7 @@ export { default as Spacer } from './components/layout/Spacer'
 
 // Molecules
 export { default as Accordion } from './components/molecules/Accordion'
+export { default as Dropdown } from './components/molecules/Dropdown'
 export { default as RadioButtonList } from './components/molecules/RadioButtonList'
 export { default as TextField } from './components/molecules/TextField'
 
