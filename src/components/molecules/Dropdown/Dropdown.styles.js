@@ -46,7 +46,7 @@ export default css`
 
       a {
         text-decoration: none;
-        color: var(--color-neutral-120);
+        color: var(--color-neutral-900);
         transition: all var(--transition-timing-easing);
       }
     }
