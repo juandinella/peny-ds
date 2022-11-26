@@ -19,8 +19,3 @@ export const Default = Template.bind({})
 
 export const Skeleton = Template.bind({})
 Skeleton.args = { shouldRender: () => false }
-
-export const WithSubtitle = Template.bind({})
-WithSubtitle.args = {
-  subtitle: 'lorem ipsum',
-}

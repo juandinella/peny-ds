@@ -1,0 +1,322 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Molecules/Dropdown Alignments 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <nav
+    className="sc-sg24yx-0 cZGbLO"
+    data-testid="dropdown_id"
+    id="dropdown_id"
+  >
+    <button
+      aria-expanded="false"
+      aria-haspopup="true"
+      aria-label="Dropdown Menu"
+      className="dropdown-toggle"
+      data-testid="dropdown_id_toggle"
+      id="dropdown_id_toggle"
+      onClick={[Function]}
+    >
+      Toggle Dropdown
+    </button>
+    <ul
+      className="sc-2bi9jj-1 gEomZU dropdown-menu "
+      data-testid="dropdown_id_list"
+      id="dropdown_id_list"
+    >
+      <li
+        className=" "
+        data-testid="dropdown_id_list_0"
+        id="dropdown_id_list_0"
+        onClick={[Function]}
+      >
+        <a
+          href="#"
+        >
+          Im a Link
+        </a>
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_1"
+        id="dropdown_id_list_1"
+        onClick={[Function]}
+      >
+        Item Two
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_2"
+        id="dropdown_id_list_2"
+        onClick={[Function]}
+      >
+        Item Three
+      </li>
+    </ul>
+  </nav>
+  <nav
+    className="sc-sg24yx-0 heFPof"
+    data-testid="dropdown_id"
+    id="dropdown_id"
+  >
+    <button
+      aria-expanded="false"
+      aria-haspopup="true"
+      aria-label="Dropdown Menu"
+      className="dropdown-toggle"
+      data-testid="dropdown_id_toggle"
+      id="dropdown_id_toggle"
+      onClick={[Function]}
+    >
+      Toggle Dropdown
+    </button>
+    <ul
+      className="sc-2bi9jj-1 gEomZU dropdown-menu "
+      data-testid="dropdown_id_list"
+      id="dropdown_id_list"
+    >
+      <li
+        className=" "
+        data-testid="dropdown_id_list_0"
+        id="dropdown_id_list_0"
+        onClick={[Function]}
+      >
+        <a
+          href="#"
+        >
+          Im a Link
+        </a>
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_1"
+        id="dropdown_id_list_1"
+        onClick={[Function]}
+      >
+        Item Two
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_2"
+        id="dropdown_id_list_2"
+        onClick={[Function]}
+      >
+        Item Three
+      </li>
+    </ul>
+  </nav>
+  <nav
+    className="sc-sg24yx-0 lnjURR"
+    data-testid="dropdown_id"
+    id="dropdown_id"
+  >
+    <button
+      aria-expanded="false"
+      aria-haspopup="true"
+      aria-label="Dropdown Menu"
+      className="dropdown-toggle"
+      data-testid="dropdown_id_toggle"
+      id="dropdown_id_toggle"
+      onClick={[Function]}
+    >
+      Toggle Dropdown
+    </button>
+    <ul
+      className="sc-2bi9jj-1 gEomZU dropdown-menu "
+      data-testid="dropdown_id_list"
+      id="dropdown_id_list"
+    >
+      <li
+        className=" "
+        data-testid="dropdown_id_list_0"
+        id="dropdown_id_list_0"
+        onClick={[Function]}
+      >
+        <a
+          href="#"
+        >
+          Im a Link
+        </a>
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_1"
+        id="dropdown_id_list_1"
+        onClick={[Function]}
+      >
+        Item Two
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_2"
+        id="dropdown_id_list_2"
+        onClick={[Function]}
+      >
+        Item Three
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
+
+exports[`Storyshots Molecules/Dropdown Default 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <nav
+    className="sc-sg24yx-0 heFPof"
+    data-testid="dropdown_id"
+    id="dropdown_id"
+  >
+    <button
+      aria-expanded="false"
+      aria-haspopup="true"
+      aria-label="Dropdown Menu"
+      className="dropdown-toggle"
+      data-testid="dropdown_id_toggle"
+      id="dropdown_id_toggle"
+      onClick={[Function]}
+    >
+      Toggle Dropdown
+    </button>
+    <ul
+      className="sc-2bi9jj-1 gEomZU dropdown-menu "
+      data-testid="dropdown_id_list"
+      id="dropdown_id_list"
+    >
+      <li
+        className=" "
+        data-testid="dropdown_id_list_0"
+        id="dropdown_id_list_0"
+        onClick={[Function]}
+      >
+        <a
+          href="#"
+        >
+          Im a Link
+        </a>
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_1"
+        id="dropdown_id_list_1"
+        onClick={[Function]}
+      >
+        Item Two
+      </li>
+      <li
+        className=" "
+        data-testid="dropdown_id_list_2"
+        id="dropdown_id_list_2"
+        onClick={[Function]}
+      >
+        Item Three
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
+
+exports[`Storyshots Molecules/Dropdown Skeleton 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "wrap",
+      "gap": "10px 30px",
+      "height": "100%",
+      "justifyContent": "flex-start",
+      "maxHeight": "auto",
+    }
+  }
+>
+  <div
+    className="sc-kjnynt-0 jfZhXD"
+    data-testid="dropdown_id_skeleton"
+    id="dropdown_id_skeleton"
+    style={
+      Object {
+        "height": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <nav
+      className="sc-sg24yx-0 heFPof"
+      data-testid="dropdown_id"
+      id="dropdown_id"
+    >
+      <button
+        aria-expanded="false"
+        aria-haspopup="true"
+        aria-label="Dropdown Menu"
+        className="dropdown-toggle"
+        data-testid="dropdown_id_toggle"
+        id="dropdown_id_toggle"
+        onClick={[Function]}
+      >
+        Toggle Dropdown
+      </button>
+      <ul
+        className="sc-2bi9jj-1 gEomZU dropdown-menu "
+        data-testid="dropdown_id_list"
+        id="dropdown_id_list"
+      >
+        <li
+          className=" "
+          data-testid="dropdown_id_list_0"
+          id="dropdown_id_list_0"
+          onClick={[Function]}
+        >
+          <a
+            href="#"
+          >
+            Im a Link
+          </a>
+        </li>
+        <li
+          className=" "
+          data-testid="dropdown_id_list_1"
+          id="dropdown_id_list_1"
+          onClick={[Function]}
+        >
+          Item Two
+        </li>
+        <li
+          className=" "
+          data-testid="dropdown_id_list_2"
+          id="dropdown_id_list_2"
+          onClick={[Function]}
+        >
+          Item Three
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+`;

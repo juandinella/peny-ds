@@ -1,88 +1,90 @@
 import React from 'react'
 
-import { cleanup, render } from '@testing-library/react'
+import { render, cleanup, fireEvent } from '@testing-library/react'
 
-import SelectList from './SelectList'
+import Dropdown from './Dropdown'
 
 import initStoryshots from '@storybook/addon-storyshots'
 
 initStoryshots({
-  storyKindRegex: /^Molecules\/SelectList$/,
+  storyKindRegex: /^Molecules\/Dropdown$/,
 })
+
+const componentProps = {
+  id: 'dropdown_id',
+  buttonContent: 'Toggle Dropdown',
+  textList: [
+    {
+      content: <a href="#">Im a Link</a>,
+    },
+    { content: 'Item Two' },
+  ],
+}
 
 afterEach(cleanup)
 
-const radioOne = {
-  label: 'Radio One',
-  value: 'one',
-  icon: 'icon-sms',
-  checked: true,
-  id: 'radio_one',
-  onChange: jest.fn(),
-}
-
-const radioTwo = {
-  label: 'Radio Two',
-  value: 'two',
-  icon: 'icon-sms',
-  checked: false,
-  id: 'radio_two',
-  onChange: jest.fn(),
-}
-
-const componentProps = {
-  radioName: 'radio_name',
-  id: 'composition',
-  radioList: [radioOne, radioTwo],
-}
-
-beforeEach(() => {
-  radioOne.onChange.mockClear()
-  radioTwo.onChange.mockClear()
-})
-
-describe('<SelectList />', () => {
+describe('<Dropdown />', () => {
   test('should render component correctly', () => {
-    const { queryByTestId } = render(<SelectList {...componentProps} />)
+    const { queryByTestId } = render(<Dropdown {...componentProps} />)
 
-    const comp = queryByTestId(componentProps.id)
-
-    expect(comp).toBeTruthy()
-    expect(comp.children).toHaveLength(componentProps.radioList.length)
+    expect(queryByTestId(componentProps.id)).toBeTruthy()
   })
 
   test('should render skeleton', () => {
     const { queryByTestId } = render(
-      <SelectList {...componentProps} shouldRender={() => false} />
+      <Dropdown {...componentProps} shouldRender={() => false} />
     )
 
-    expect(queryByTestId(`${radioOne.id}_skeleton`)).toBeTruthy()
-    expect(queryByTestId(`${radioTwo.id}_skeleton`)).toBeTruthy()
+    expect(queryByTestId(`${componentProps.id}_skeleton`)).toBeTruthy()
   })
 
-  test('should render radio buttons', () => {
-    const { queryByTestId } = render(<SelectList {...componentProps} />)
+  test('should show button content correctly', () => {
+    const { queryByTestId } = render(<Dropdown {...componentProps} />)
 
-    const radioFirst = queryByTestId(componentProps.radioList[0].id)
-
-    const radioSecond = queryByTestId(componentProps.radioList[1].id)
-
-    expect(radioFirst).toBeTruthy()
-    expect(radioSecond).toBeTruthy()
+    expect(queryByTestId(`${componentProps.id}_toggle`).textContent).toEqual(
+      componentProps.buttonContent
+    )
   })
 
-  test('radio name should appear on radio buttons', () => {
-    const { queryByTestId } = render(<SelectList {...componentProps} />)
+  test('should open dropdown', () => {
+    const { queryByTestId } = render(<Dropdown {...componentProps} />)
 
-    const radioFirstInput = queryByTestId(
-      componentProps.radioList[0].id
-    ).querySelector('input')
+    const button = queryByTestId(`${componentProps.id}_toggle`)
 
-    const radioSecondInput = queryByTestId(
-      componentProps.radioList[1].id
-    ).querySelector('input')
+    expect(button.getAttribute('aria-expanded')).toEqual('false')
+    expect(queryByTestId(`${componentProps.id}_list`).className).not.toContain(
+      'is-open'
+    )
 
-    expect(radioFirstInput.name).toEqual(componentProps.radioName)
-    expect(radioSecondInput.name).toEqual(componentProps.radioName)
+    fireEvent.click(button)
+
+    expect(button.getAttribute('aria-expanded')).toEqual('true')
+    expect(queryByTestId(`${componentProps.id}_list`).className).toContain(
+      'is-open'
+    )
+  })
+
+  test('should show list correctly', () => {
+    const { queryByTestId } = render(<Dropdown {...componentProps} />)
+
+    expect(queryByTestId(`${componentProps.id}_list_0`)).toBeTruthy()
+    expect(queryByTestId(`${componentProps.id}_list_0`).textContent).toEqual(
+      'Im a Link'
+    )
+
+    expect(queryByTestId(`${componentProps.id}_list_1`)).toBeTruthy()
+    expect(queryByTestId(`${componentProps.id}_list_1`).textContent).toEqual(
+      componentProps.textList[1].content
+    )
+  })
+
+  test('should not show list if disabled', () => {
+    const { queryByTestId, rerender } = render(<Dropdown {...componentProps} />)
+
+    expect(queryByTestId(`${componentProps.id}_list`)).toBeTruthy()
+
+    rerender(<Dropdown {...componentProps} disabled={true} />)
+
+    expect(queryByTestId(`${componentProps.id}_list`)).toBeFalsy()
   })
 })
